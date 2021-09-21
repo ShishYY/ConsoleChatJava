@@ -1,0 +1,3 @@
+# Project exclude paths
+/shish/clientshish/target/
+/shish/servershish/target/
